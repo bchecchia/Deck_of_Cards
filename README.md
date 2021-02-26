@@ -14,8 +14,8 @@ To clone this project locally and run the rspec tests, do the following:
 
 - ensure you have ruby installed on your machine
 ```bash
-git clone < repo.url>
-cd < your repo name>
+git clone < https://github.com/bchecchia/Deck_of_Cards.git>
+cd < cards_and_decks>
 run the "Deck Specks" by running rspec `spec/deck_spec.rb`, or the "Card Specs" by running `rspec spec/card_spec.rb`
 ```
 
