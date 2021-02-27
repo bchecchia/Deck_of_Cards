@@ -16,10 +16,10 @@ To clone this project locally and run the rspec tests, do the following:
 ```bash
 git clone < https://github.com/bchecchia/Deck_of_Cards.git>
 cd < cards_and_decks>
-run the "Deck Specks" by running rspec `spec/deck_spec.rb`, or the "Card Specs" by running `rspec spec/card_spec.rb`
+run the "Deck Specks" by running rspec ./spec/deck_spec.rb , or the "Card Specs" by running rspec ./spec/card_spec.rb
 ```
 
-## Usage (Demo, features, functionality)
+## Usage: 
 
 The first piece of functionality built was an individual Card object consisting of a face value and a suit.
 
@@ -29,10 +29,10 @@ The second piece of funtionality built was a set of 52 cards with the shuffle an
 
 This Deck was then tested againt 7 examples in the rspec library.
 
-## Project status
+## Project status:
 
 This project is still being develped and has the potential for more features and functionality.
 
-## Roadmap
+## Roadmap:
 
-How would you like to see this prject grow in the future? Please do not hesitate to comment and share any suggestions.
+How would you like to see this project grow in the future? Please leave a comment and share any suggestions.
